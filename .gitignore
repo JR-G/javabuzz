@@ -7,3 +7,8 @@
 *.iml
 out
 gen
+Calculator.java
+CalculatorTest.java
+Calculator.class
+CalculatorTest.class
+.DS_Store
